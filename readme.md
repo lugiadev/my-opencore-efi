@@ -3,7 +3,8 @@
 This is a prebuilt OpenCore EFI folder tailored for running macOS Sequoia 15.1 on the following hardware configuration:
 
 ## Hardware Compatibility
-- **CPU**: Intel Core i5-12400F  
+- **CPU**: Intel Core i5-12400F
+- **Mainboard**: ROG STRIX B660-A GAMING WIFI D4
 - **GPU**: AMD RX 6700XT  
 - **Wi-Fi Adapter**: Intel
   - **Note**: Patched for native support of Wi-Fi without Heliport.  
